@@ -1,7 +1,7 @@
-# Computer Vision Assignment – Traffic Sign Dataset (MSA 8770)
+# Computer Vision – Traffic Sign Dataset 
 
 ## Overview
-This project processes the **Mapillary Traffic Sign Dataset (MTSD v2 fully annotated)** as part of the MSA 8770 course.  
+This project processes the **Mapillary Traffic Sign Dataset (MTSD v2 fully annotated)** 
 The work includes:
 
 - Parsing 41,909 JSON annotation files  
@@ -151,7 +151,7 @@ Everything is already installed on ARC.
 
 ## Author
 **Abhay Prabhakar**  
-MSA 8770 – Georgia State University  
+Georgia State University  
 Fall 2025
 
 ---
